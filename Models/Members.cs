@@ -13,5 +13,6 @@ namespace SerializationParseFiles.Models
         public int Age { get; set; }
         public string secretIdentity { get; set; }
         public List<string> Powers { get; set; }
+        
     }
 }
